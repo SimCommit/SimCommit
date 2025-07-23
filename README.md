@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦊 Hello there! I'm Simon.<br><br>🔭 I’m currently working on our Kanban project management tool, Join, together with two dev mates.<br>🌌 In this project, I’m deepening my understanding of Angular, TypeScript, and how to smoothly integrate our Firestore database.<br>💡 We’re planning to finish Join this month, so if you have a good idea for a new project, feel free to let me know!<br>🌱 Besides gaining more practical experience in frontend techs, I’m keen to learn Java.<br>🧱 Or another language that helps me build a solid backend.
+🦊 Hello there! I'm Simon.<br><br>✅ We just finished our Kanban-based project management tool, Join, which I built together with two fellow devs.<br>💻 I’m now working on my own portfolio website to showcase our projects in a clean and modern way.<br>🌌 In Join, I deepened my understanding of Angular, TypeScript, and how to smoothly integrate a Firestore database.<br>🌱 Besides gaining more practical experience in frontend techs, I’m keen to learn Java.<br>🧱 Or another language that helps me build a solid backend.
 
 
 ## 🌐 Socials:
