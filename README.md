@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🦊 Hello there! I'm Simon.<br><br>
 ✅ We just finished our Kanban-based project management tool, Join, which I built together with two fellow devs.<br>
 🌌 In Join, I deepened my understanding of Angular, TypeScript, and how to smoothly integrate collections and authentication via Firebase.<br>
@@ -7,7 +7,7 @@
 🌱 Besides coding more with Angular, I'm also interested in gaining hands-on experience with frontend frameworks like Vue, React, or Material.<br>
 🧱 And I'm also keen to dive into backend development, such as Java or any language that helps me build solid backend systems.<br>
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-fuchs-SimCommit) 
 
 # Tech Stack: 
@@ -16,7 +16,7 @@
 ## Dev Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SimCommit&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SimCommit&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimCommit&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
