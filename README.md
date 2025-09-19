@@ -6,7 +6,7 @@
 🌱 Besides coding more with Angular, I'm also interested in gaining hands-on experience with frontend frameworks like Vue, React, or Material.<br>
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-fuchs-SimCommit) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-fuchs-net) 
 
 # Tech Stack: 
 ## Core Technologies
