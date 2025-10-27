@@ -69,7 +69,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SimCommit/SimCommit/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SimCommit/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -78,9 +78,10 @@
 ###
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/simon-fuchs-net/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
-
 ###
 
 <div>
