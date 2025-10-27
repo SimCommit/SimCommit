@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=SimCommit&fontSize=60&fontColor=f8f7e5&fontAlign=19.5&fontAlignY=80&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ff834f"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=124&section=header&reversal=false&text=SimCommit&fontSize=71&fontColor=0d1016&fontAlign=73.5&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=70a4fc"  />
 </div>
 
 ###
@@ -62,14 +62,19 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/SimCommit/SimCommit/output/snake-dark.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimCommit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimCommit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimCommit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SimCommit/SimCommit/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SimCommit.SimCommit&left_color=steelblue&right_color=coral&left_text=Nice%20People"  />
+</div>
 
 ###
 
@@ -86,7 +91,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=69&section=footer&reversal=false&fontSize=70&fontColor=ff834f&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ff834f"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=69&section=footer&reversal=false&fontSize=70&fontColor=ff834f&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4d70aa"  />
 </div>
 
 ###
