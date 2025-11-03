@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=124&section=header&reversal=false&text=SimCommit&fontSize=71&fontColor=0d1016&fontAlign=73.5&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=70a4fc"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=124&section=header&reversal=false&text=Simon%20Fuchs&fontSize=71&fontColor=0d1016&fontAlign=72&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&color=00ff80"  />
 </div>
 
 ###
