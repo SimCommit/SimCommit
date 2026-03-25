@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🦊 Hello there! I'm Simon.<br><br>✅ I recently improved the boss fight and optimized Firefox performance in my browser game El Pollo Loco.<br>💻 Right now, I'm working on our Kanban-based project management tool Join, updating the code to meet accessibility guidelines.<br>💡 If you’ve got an idea for a new project, especially something collaborative, feel free to let me know!<br>🌱 Besides coding more with Angular, I'm also interested in gaining hands-on experience with frontend frameworks like Vue, React, or Material.</p>
+<p align="left">🦊 Hello there! I'm Simon.<br><br>💻 Right now, I'm working on a donation page for the <a href="https://unyt.org/">unyt.org</a> website.<br>💡 If you’ve got an idea for a new project, especially something collaborative, feel free to let me know!<br>🌱 Besides coding more with Angular, I'm also interested in gaining hands-on experience with frontend frameworks like Vue or React.</p>
 
 <h2 align="left">Portfolio</h2>
 
@@ -89,7 +89,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">LinkedIn</h2>
 
 ###
 
